@@ -23,6 +23,7 @@ plan = find_plan(initial_state, goal_state, actions)
 print(plan)
 Output:
 ['move_A_to_B']
+```
 
 ### Example - 2
 ```
